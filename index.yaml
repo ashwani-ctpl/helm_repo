@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  django_helm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-09-10T12:19:27.428949321+05:30
+    description: A Helm chart for django api
+    digest: ef19477913e3f265ccc71b0bc8731e32b43dc4e0304aaec6ffe112cfc61316fe
+    name: django_helm
+    urls:
+    - https://ashwani-ctpl.github.io/helm_repo/django_helm-0.1.2.tgz
+    version: 0.1.2
+generated: 2018-09-10T12:19:27.428179487+05:30
